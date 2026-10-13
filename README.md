@@ -1,21 +1,20 @@
-# متجر متكامل: موقع + لوحة تحكم + تطبيق موبايل
-**Integrated Store — Website, Admin Dashboard & Mobile App** · التصنيف: متكامل (Full Stack)
+# Integrated Store — Website, Admin Dashboard & Mobile App
+**Integrated Store — Website, Admin Dashboard & Mobile App** · Category: Integrated (Full Stack)
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-نموذج متجر متكامل مرتبط بالتطبيق مع مزايا للمستخدمين والإشعارات والشحن والمكافآت، وربط موحّد بين المنتجات والطلبات والعملاء.
+## Project Overview
+A model integrated store linked with a mobile app, providing user benefits, notifications, shipping, and rewards, with unified linking between products, orders, and customers.
 
-## أبرز النقاط
-- الرئيسية والأقسام وتفاصيل المنتج والسلة والدفع
-- حساب المستخدم والإشعارات والعروض وتتبع الطلبات والمفضلة والمراجعات
-- لوحة تحكم لإدارة المحتوى والمنتجات
+## Highlights
+- Home, categories, product details, cart, and checkout
+- User account, notifications, offers, order tracking, favorites, and reviews
+- Admin dashboard for managing content and products
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack developer: frontend, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Technologies used
 Next.js, Flutter, Django REST, PostgreSQL, FCM, Stripe, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

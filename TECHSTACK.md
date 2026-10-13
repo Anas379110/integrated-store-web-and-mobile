@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — متجر متكامل: موقع + لوحة تحكم + تطبيق موبايل
+# 🛠️ Technologies Used — Integrated Store: Website, Admin Dashboard & Mobile App
 
 - Next.js
 - Flutter
